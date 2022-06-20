@@ -1,0 +1,12 @@
+
+.in {
+	position: fixed;
+	bottom: 100rpx;
+	right: 100rpx;
+}
+.de {
+	position: fixed;
+	bottom: 100rpx;
+	left: 100rpx;
+}
+

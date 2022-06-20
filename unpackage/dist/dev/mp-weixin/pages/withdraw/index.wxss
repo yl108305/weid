@@ -1,0 +1,125 @@
+/* uni.scss */
+page.data-v-d1d30874 {
+  background-color: #ededed;
+}
+.withdraw.data-v-d1d30874 {
+  padding: 20px;
+}
+.withdraw-head.data-v-d1d30874 {
+  background-color: #f7f7f7;
+  display: flex;
+  align-content: center;
+  padding: 20px 30px;
+  font-size: 14px;
+}
+.withdraw-head-way.data-v-d1d30874 {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  margin-left: 20px;
+}
+.withdraw-head-way-1.data-v-d1d30874 {
+  color: #576b95;
+  margin-bottom: 10px;
+}
+.withdraw-head-way-1 .way-icon.data-v-d1d30874 {
+  width: 16px;
+  height: 16px;
+  margin-right: 5px;
+  top: 2px;
+}
+.withdraw-head-way-2.data-v-d1d30874 {
+  color: #acacac;
+  font-size: 12px;
+}
+.withdraw-body.data-v-d1d30874 {
+  background-color: #fff;
+  padding: 20px 30px;
+  font-size: 14px;
+}
+.withdraw-body .input-money.data-v-d1d30874 {
+  display: flex;
+  align-content: center;
+  font-weight: 600;
+  border-bottom: 0.5px solid #eaeef1;
+}
+.withdraw-body .input-money .rmb.data-v-d1d30874 {
+  font-size: 2em;
+  top: 10px;
+  position: relative;
+}
+.withdraw-body .input-money .t-input.data-v-d1d30874 {
+  height: 1.9em;
+  font-size: 2.5em;
+  border: none;
+  position: relative;
+  left: 3.5%;
+  outline: none;
+}
+.withdraw-body .info-money.data-v-d1d30874 {
+  margin-top: 10px;
+  font-size: 12px;
+  margin-bottom: 20px;
+}
+.withdraw-body .info-money-num.data-v-d1d30874 {
+  color: #b2b2b2;
+}
+.withdraw-body .info-money-all.data-v-d1d30874 {
+  color: #576b95;
+}
+.withdraw-body .tx button.data-v-d1d30874 {
+  color: #b2b2b2;
+}
+.withdraw-body .tx-active button.data-v-d1d30874 {
+  color: #fff;
+  background: #07c160;
+}
+.withdraw .keyboard.data-v-d1d30874 {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background: #ebebeb;
+  display: flex;
+  justify-content: center;
+  z-index: 2;
+  flex-wrap: wrap;
+  transition: all 0.2s ease-in 0.2s;
+}
+.withdraw .active.data-v-d1d30874 {
+  bottom: -400rpx;
+}
+.withdraw .keyboard-item.data-v-d1d30874 {
+  box-sizing: border-box;
+  width: 250rpx;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: #fff;
+  font-size: 40rpx;
+  color: #333;
+  height: 99rpx;
+  border: 1rpx solid #ebebeb;
+  border-top: none;
+  border-left: none;
+}
+.withdraw .hide.data-v-d1d30874 {
+  opacity: 0;
+}
+.withdraw .delte.data-v-d1d30874 {
+  background: none;
+  box-shadow: none;
+}
+.withdraw .delte image.data-v-d1d30874 {
+  width: 60rpx;
+  height: 60rpx;
+}
+.withdraw .isIphone.data-v-d1d30874 {
+  padding-bottom: 68rpx !important;
+}
+.withdraw .fee ._em.data-v-d1d30874 {
+  font-size: 0.5rem;
+  font-style: normal;
+}
+
