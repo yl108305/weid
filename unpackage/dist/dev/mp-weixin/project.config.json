@@ -4,14 +4,14 @@
     "ignore": []
   },
   "setting": {
-    "urlCheck": false,
+    "urlCheck": true,
     "postcss": true,
     "minified": true,
     "es6": true
   },
   "compileType": "miniprogram",
   "libVersion": "",
-  "appid": "touristappid",
+  "appid": "wx496a311adfcc9be9",
   "projectname": "Front_merchant",
   "condition": {
     "search": {
